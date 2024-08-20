@@ -1,6 +1,6 @@
 # Airbnb Clone
 
-![Airbnb Clone Screenshot](/data/airbnb.png)
+![Airbnb Clone](/Data/airbnb.png)
 This project is a full-stack Airbnb clone built with React.js, CSS, Express.js, MongoDB, and Razorpay integration for payments. It features user authentication, property listings, and a booking system. The responsive front end ensures seamless navigation, while the back end efficiently handles server-side logic and API requests.
 
 ## Table of Contents
